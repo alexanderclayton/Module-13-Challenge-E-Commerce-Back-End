@@ -19,6 +19,13 @@ ProductTag.init(
         model: 'product',
         key: 'id',
       }
+    },
+    tag_id: {
+      type: DataTypes.INTERGER,
+      references: {
+        model: 'tag',
+        key: 'id',
+      }
     }
   },
   {
