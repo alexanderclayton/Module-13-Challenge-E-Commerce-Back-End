@@ -38,4 +38,4 @@ There was no desktop view for this application, so instead we used insomnia to d
 
 ![Insomnia view](/assets/insomnia-view-challenge-13.PNG)
 
-![link to walkthrough video](https://drive.google.com/file/d/1x7TPndx-HyUIYTGdyIwV_htXcg5n0tzw/view)
+[link to walkthrough video](https://drive.google.com/file/d/1x7TPndx-HyUIYTGdyIwV_htXcg5n0tzw/view)
